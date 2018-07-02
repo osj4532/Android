@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Android Game</string>
+    <string name="easy_prompt">공의 갯수를 선택하시오</string>
+    <string name="music_prompt">배경 음악을 선택하시오</string>
+
+    <string-array name="easy_array">
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="music_array">
+    </string-array>
+
+</resources>
